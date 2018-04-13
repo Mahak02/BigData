@@ -1,0 +1,65 @@
+
+
+EMPOWERING BIG DATA IN HYBRID CLOUD:
+
+One of the challenges in big data is Personal Data security.
+
+Datameer application on a Hadoop cluster deployed on a Nutanix system. A true web-scale architecture is important in dealing with these complexities in infrastructure to make big data consumption seamless. Nutanix is building software and services on AI-based architecture and exposing API to completely automate and simplify how the infrastructure is managed, bringing together public and private cloud.
+
+---------------------------------------------------------------------------------------------------------------------------------------------------
+
+KICKOFF EVENT: HOW DOES NETFLIX USE BIG DATA TO DRIVE INSIGHTS?:
+
+The topic was "Engineering and Analytics from Pitch to Play"
+
+Netflix, Becky works on models that predict the demand for TV shows and movies. She started introducing data science for content selection and creation by clearing out the rumor that Netflix uses machine learning to write script. Netflix still leaves the script writing to the creatives. Data Science does not dominate creative freedom, but it can help with choosing content by using machine learning along with decision tree and regression models. Data engineering that produces clean and organized data is the backbone of her data science work. She also introduced the idea of “Comps” to solve the problems of not having enough data to greenlight all of their original series.
+
+---------------------------------------------------------------------------------------------------------------------------------------------------
+
+HUE 4.2 AND ITS SELF SERVICE BI IMPROVEMENTS ARE OUT!:
+
+Here is a list of the main improvements:
+
+cloud
+
+ADLS Browser
+Analytic DB
+
+Top Search UX
+SQL Syntax checker
+Impala Query Browser
+Supportability
+
+SAML update
+Documentation revamp
+Metric page
+
+---------------------------------------------------------------------------------------------------------------------------------------------------
+
+BROWSING ADLS DATA, QUERYING IT WITH SQL AND EXPORTING THE RESULTS BACK IN HUE 4.2
+
+ADLS -- Azure Data Lake Store -- integration in Hue. similar to S3
+
+Hue can be setup to read and write to a configured ADLS, and users can directly query from and save data to ADLS without any intermediate moving / copying to HDFS.
+
+---------------------------------------------------------------------------------------------------------------------------------------------------
+
+BETA OF NEW NOTEBOOK APPLICATION FOR SPARK & SQL
+
+A spark igniter was released for developers to submit spark jobs in an interface. 
+
+It had a challenge of implementing an interface, compiling beforehand and YARN support was lacking. Then they planned to add the support for python and scala and also change the UI. This is what this started SPARK REST JOB SERVER which provides these missing functionalities. On top of it, they revamped the UI for providing a Python Notebook-like feeling.
+
+Its still under a testing stage and is still not officially being used yet.
+
+
+
+
+
+
+
+
+
+
+
+
